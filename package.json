@@ -1,0 +1,23 @@
+{
+  "name": "muse-plugin-desktop-lyric",
+  "version": "1.0.1",
+  "description": "Desktop lyric plugin for MUSE & an example of building MUSE plugins.",
+  "main": "muse-plugin-desktop-lyric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirainmoe/muse-plugin-desktop-lyric.git"
+  },
+  "keywords": [
+    "muse",
+    "muse-plugins"
+  ],
+  "author": "MoeFront Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirainmoe/muse-plugin-desktop-lyric/issues"
+  },
+  "homepage": "https://github.com/kirainmoe/muse-plugin-desktop-lyric#readme"
+}

@@ -8,7 +8,7 @@
  * @version 0.1
  * @links https://github.com/kirainmoe/muse-plugin-desktop-lyric
  */
-(function() {
+(function(document, window) {
 
   function MusePluginDesktopLyric() {}
 
@@ -72,4 +72,4 @@
     );
   }
 
-})();
+})(document, window);
