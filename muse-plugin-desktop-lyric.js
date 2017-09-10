@@ -65,7 +65,7 @@
 
   if (window.MUSE) {
     MUSE.registerMiddleware('onLyricUpdate', desktopLyric.onUpdate);
-    desktopLyric.render();
+    window.addEventListener('load', desktopLyric.render.bind(desktopLyric));
   } else {
     console.error(
       'muse-plugin-desktop-lyric should be loaded after MUSE Player Object.'

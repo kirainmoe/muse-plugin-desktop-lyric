@@ -1,6 +1,6 @@
 {
   "name": "muse-plugin-desktop-lyric",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Desktop lyric plugin for MUSE & an example of building MUSE plugins.",
   "main": "muse-plugin-desktop-lyric.js",
   "scripts": {
